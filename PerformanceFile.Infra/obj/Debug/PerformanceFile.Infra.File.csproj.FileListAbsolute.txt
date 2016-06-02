@@ -1,0 +1,13 @@
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\NLog.config
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\PerformanceFile.Infra.File.dll.config
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\PerformanceFile.Infra.File.dll
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\PerformanceFile.Infra.File.pdb
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\CsvHelper.dll
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\NLog.dll
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\PerformanceFile.Domain.dll
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\PerformanceFile.Domain.pdb
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\CsvHelper.xml
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\bin\Debug\NLog.xml
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\obj\Debug\PerformanceFile.Infra.File.csprojResolveAssemblyReference.cache
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\obj\Debug\PerformanceFile.Infra.File.dll
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Infra\obj\Debug\PerformanceFile.Infra.File.pdb

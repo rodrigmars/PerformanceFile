@@ -1,0 +1,5 @@
+F:\desenv\projetos\PerformanceFile\PerformanceFileInfra.UI.Console\bin\Debug\PerformanceFileInfra.UI.Console.exe.config
+F:\desenv\projetos\PerformanceFile\PerformanceFileInfra.UI.Console\bin\Debug\PerformanceFileInfra.UI.Console.exe
+F:\desenv\projetos\PerformanceFile\PerformanceFileInfra.UI.Console\bin\Debug\PerformanceFileInfra.UI.Console.pdb
+F:\desenv\projetos\PerformanceFile\PerformanceFileInfra.UI.Console\obj\Debug\PerformanceFileInfra.UI.Console.exe
+F:\desenv\projetos\PerformanceFile\PerformanceFileInfra.UI.Console\obj\Debug\PerformanceFileInfra.UI.Console.pdb

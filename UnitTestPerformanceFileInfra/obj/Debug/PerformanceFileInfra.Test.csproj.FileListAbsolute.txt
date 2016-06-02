@@ -1,0 +1,16 @@
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\NLog.config
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.dll.config
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.pdb
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Domain.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Infra.File.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\CsvHelper.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\NLog.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Domain.pdb
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Infra.File.pdb
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\CsvHelper.xml
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\NLog.xml
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\obj\Debug\PerformanceFileInfra.Test.csprojResolveAssemblyReference.cache
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\obj\Debug\PerformanceFileInfra.Test.dll
+F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\obj\Debug\PerformanceFileInfra.Test.pdb
