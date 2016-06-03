@@ -15,15 +15,9 @@ namespace PerformanceFile.Infra.File.Modules
             {
                 long memoryBefore = GC.GetTotalMemory(true);
 
-                //GetStreamFile(listTarifas, new Tarifa(), fileSource);
-
                 var lines = GetStreamFile(fileSource);
 
-                foreach (var line in lines)
-                {
-                    GetValues(listTarifas, line, new Tarifa());
-                }
-
+                foreach (var line in lines) GetValues(listTarifas, line, new Tarifa());
 
                 var memoryAfter = GC.GetTotalMemory(false);
 
