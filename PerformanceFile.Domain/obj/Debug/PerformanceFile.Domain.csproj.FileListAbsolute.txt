@@ -2,3 +2,4 @@ F:\desenv\projetos\PerformanceFile\PerformanceFile.Domain\bin\Debug\PerformanceF
 F:\desenv\projetos\PerformanceFile\PerformanceFile.Domain\bin\Debug\PerformanceFile.Domain.pdb
 F:\desenv\projetos\PerformanceFile\PerformanceFile.Domain\obj\Debug\PerformanceFile.Domain.dll
 F:\desenv\projetos\PerformanceFile\PerformanceFile.Domain\obj\Debug\PerformanceFile.Domain.pdb
+F:\desenv\projetos\PerformanceFile\PerformanceFile.Domain\obj\Debug\PerformanceFile.Domain.csprojResolveAssemblyReference.cache

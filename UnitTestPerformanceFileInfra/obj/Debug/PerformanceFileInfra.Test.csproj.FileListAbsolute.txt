@@ -2,7 +2,6 @@ F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\NLog.c
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.dll.config
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.dll
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFileInfra.Test.pdb
-F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Domain.dll
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\PerformanceFile.Infra.File.dll
 F:\desenv\projetos\PerformanceFile\UnitTestPerformanceFileInfra\bin\Debug\CsvHelper.dll
