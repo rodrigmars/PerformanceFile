@@ -9,6 +9,11 @@ namespace PerformanceFile.Infra.File.Modules
 {
     public class ParseFileTxt
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="listTarifas"></param>
+        /// <param name="fileSource"></param>
         public static void Parse(List<Tarifa> listTarifas, string fileSource)
         {
             try
